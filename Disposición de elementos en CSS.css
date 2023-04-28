@@ -1,0 +1,66 @@
+* {
+    padding: 0;
+    margin:0;
+}
+
+.imagenes{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.waifu{
+    width: 300px;
+    margin: 20px;
+   
+}
+
+.waifu:hover{
+opacity: 0.5;
+cursor: pointer;
+}
+.waif{
+    width: 300px;
+    margin: 20px;
+}
+.waif:hover{
+    opacity: 0.5;
+    cursor: pointer;
+    }
+
+.wai{
+    width: 300px;
+    margin: 20px;
+}
+.wai:hover{
+    opacity: 0.5;
+    cursor: pointer;
+    }
+
+.wa{
+    width: 300px;
+    margin: 20px;
+}
+.wa:hover{
+    opacity: 0.5;
+    cursor: pointer;
+    }
+
+.w{
+    width: 300px;
+    margin: 20px;
+}
+.w:hover{
+    opacity: 0.5;
+    cursor: pointer;
+    }
+
+.lol{
+    width: 300px;
+    margin: 20px;
+}
+.lol:hover{
+    opacity: 0.5;
+    cursor: pointer;
+
+    }
